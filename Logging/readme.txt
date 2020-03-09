@@ -1,0 +1,1 @@
+logging projects and solutions
